@@ -81,7 +81,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://id.heroku.com/login"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-robot-V1"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 ----
@@ -114,7 +114,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 
 <p align="center">
 ↪️ 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 ↩️
-</p>
+</p> 99
 
 - Thanks To [Donlee_RoBot V1](https://github.com/PR0FESS0R-99/DonLee-robot-V1)
 - Thanks To [Pyrogram](https://github.com/pyrogram/pyrogram)
